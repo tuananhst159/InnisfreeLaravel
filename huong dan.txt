@@ -1,0 +1,9 @@
+user
+anh@gmail.com
+123456
+quang@gmail.com
+123456
+
+admin
+admin@gmail.com
+123456
